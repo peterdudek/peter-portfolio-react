@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/piotr-portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/piotr-portfolio/static/js/main.ac00e871.chunk.js",
+    "main.js.map": "/piotr-portfolio/static/js/main.ac00e871.chunk.js.map",
+    "runtime-main.js": "/piotr-portfolio/static/js/runtime-main.fa82b84e.js",
+    "runtime-main.js.map": "/piotr-portfolio/static/js/runtime-main.fa82b84e.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/piotr-portfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.24846f16.chunk.js": "/piotr-portfolio/static/js/2.24846f16.chunk.js",
+    "static/js/2.24846f16.chunk.js.map": "/piotr-portfolio/static/js/2.24846f16.chunk.js.map",
+    "static/js/3.4676478b.chunk.js": "/piotr-portfolio/static/js/3.4676478b.chunk.js",
+    "static/js/3.4676478b.chunk.js.map": "/piotr-portfolio/static/js/3.4676478b.chunk.js.map",
+    "index.html": "/piotr-portfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/piotr-portfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/piotr-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.24846f16.chunk.js.LICENSE.txt": "/piotr-portfolio/static/js/2.24846f16.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/piotr-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa82b84e.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.24846f16.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ac00e871.chunk.js"
+  ]
+}
