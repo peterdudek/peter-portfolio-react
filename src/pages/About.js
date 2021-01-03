@@ -1,4 +1,5 @@
 import React from "react";
+import Picture from "../img/Working.jpeg";
 
 function About() {
 
@@ -6,8 +7,18 @@ function About() {
 
 
   return (
-    <div>
-      <h4>Pursuing the Coding Dream</h4>
+    <div classNameName="customMargin">
+
+      <div className="container col-xs-9 my-3 p-3 border border-dark rounded projects">
+        <h1 className="display-4 text-center text-sm-left">Meet Piotr Dudek</h1>
+        <div className="container col-sm-3">
+
+          <img src={Picture} alt="profile_image" className="img-fluid img-thumbnail figure-img rounded" />
+          <figcaption className="centerTxt">Piotr Dudek</figcaption>
+        </div>
+        <hr className="my-3" />
+
+        <h4>Pursuing the Coding Dream</h4>
       <p>
         Full-Stack Web Developer leveraging project management and manufacturing compliance background to build and optimize web applications and create the ultimate user experience.
         Currently enrolled in the Full-Stack Coding Bootcamp at Columbia University and working to obtain a certificate.
@@ -27,9 +38,12 @@ function About() {
         Avid runner on the weekends.
         Favorite drink of choice: tequila with cranberry juice.
       </p>
-      <br />
+
+      </div>
+
+
     </div>
-  
+
   )
 }
 

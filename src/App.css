@@ -3,6 +3,22 @@
   margin-bottom: 45px;
 }
 
+.customMargin {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.centerTxt {
+  text-align: center;
+}
+
+.spread {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;
