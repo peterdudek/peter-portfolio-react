@@ -1,6 +1,7 @@
 import React from 'react';
 import Dash from '../img/DestinationDashboard.png';
 import Investor from '../img/shrewd.png';
+import Project from '../components/Project/project.js';
 
 function Projects() {
 
@@ -23,6 +24,7 @@ function Projects() {
             <h4 className="centertxt"><a rel="noreferrer" target="_blank" href="https://our-shrewd-investor.herokuapp.com/">Shrewd Investor</a></h4>
             <h8 className="centertxt"><a rel="noreferrer" target="_blank" href="https://github.com/Piotr72us/Shrewd-Investor">GitHub Repo</a></h8>
           </div>
+          <Project />
     </div>
     </div>
   )

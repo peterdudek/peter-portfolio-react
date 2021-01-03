@@ -38,6 +38,11 @@ function Header() {
               Projects
             </Link>
           </li>
+
+          <li className="nav-item">
+              <a rel="noreferrer" target="_blank" href="https://drive.google.com/file/d/1SvWK91DJCqiuyIu0Yu2cErhMXX89el7g/view?usp=sharing">My Resume</a>
+          </li>
+
         </ul>
       </div>
     </nav>
