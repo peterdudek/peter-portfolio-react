@@ -1,16 +1,8 @@
 .footer {
-  min-height: 100px;
-  /* background: black; */
+  height: 30px;
   color: white;
-  position: relative;
-}
-
-.footer span {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 3px;
-  /* background: black; */
-  color: white;
 }

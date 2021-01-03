@@ -6,7 +6,7 @@ import Project from '../components/Project/project.js';
 function Projects() {
 
   return (
-    <div className="container col-xs-10 my-3 p-3 border border-dark rounded projects">
+    <div className="container col-xs-10 my-3 p-3 border border-dark rounded">
       <h1 className="display-4 text-center text-sm-left">Piotr's Projects</h1>
       <hr className="my-3" />
       <h3 className="centertxt"><strong>Group Projects</strong></h3>

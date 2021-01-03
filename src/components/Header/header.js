@@ -39,7 +39,7 @@ function Header() {
             </Link>
           </li>
 
-          <li className="nav-item">
+          <li className="nav-item nav-link">
               <a rel="noreferrer" target="_blank" href="https://drive.google.com/file/d/1SvWK91DJCqiuyIu0Yu2cErhMXX89el7g/view?usp=sharing">My Resume</a>
           </li>
 
