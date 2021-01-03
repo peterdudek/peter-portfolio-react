@@ -1,5 +1,4 @@
 import React from "react";
-import logo from './logo.svg';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
@@ -17,12 +16,6 @@ function App() {
           <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/projects" component={Projects} />
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Piotr Dudek - portfolio
-        </p>
-      </header>
     <Footer />
     </div>
     </Router>
