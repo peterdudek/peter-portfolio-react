@@ -1,14 +1,22 @@
 import React from "react";
-import Cat from '../../img/cat2.jpg';
+// import Cat from '../../img/cat2.jpg';
 import "./style.css";
 
-function Project() {
+function Project(props) {
   return (
-    <div className="col-lg-5">
-    <img src={Cat} alt="signup page for shrewd investor" className="img-fluid img-thumbnail figure-img rounded" />
-    <h4 className="centertxt"><a rel="noreferrer" target="_blank" href="https://our-shrewd-investor.herokuapp.com/">Cat - Test</a></h4>
-    <h8 className="centertxt"><a rel="noreferrer" target="_blank" href="https://github.com/Piotr72us/Shrewd-Investor">GitHub Repo</a></h8>
-  </div>
+    <>
+    {props.projects.length > 0 ? props.projects.map( project => {
+      return (
+
+    
+    <div className="col-lg-5 myProject" key={project.id}>
+      <img src={project.image} alt={project.name} className="img-fluid img-thumbnail figure-img rounded" />
+      <h4 className="centertxt"><a rel="noreferrer" target="_blank" href={project.deployed}>{project.name}</a></h4>
+      <h8 className="centertxt"><a rel="noreferrer" target="_blank" href={project.repo}>GitHub Repo</a></h8>
+    </div>)
+
+    }) : "Nothing found"}
+    </>
   );
 }
 
