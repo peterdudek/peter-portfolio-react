@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/piotr-portfolio-react/static/css/main.6c1c58bb.chunk.css",
-    "main.js": "/piotr-portfolio-react/static/js/main.db9f8e17.chunk.js",
-    "main.js.map": "/piotr-portfolio-react/static/js/main.db9f8e17.chunk.js.map",
-    "runtime-main.js": "/piotr-portfolio-react/static/js/runtime-main.a5f9e272.js",
-    "runtime-main.js.map": "/piotr-portfolio-react/static/js/runtime-main.a5f9e272.js.map",
+    "main.css": "/piotr-portfolio-react/static/css/main.4d648f51.chunk.css",
+    "main.js": "/piotr-portfolio-react/static/js/main.17c4dea7.chunk.js",
+    "main.js.map": "/piotr-portfolio-react/static/js/main.17c4dea7.chunk.js.map",
+    "runtime-main.js": "/piotr-portfolio-react/static/js/runtime-main.d02775de.js",
+    "runtime-main.js.map": "/piotr-portfolio-react/static/js/runtime-main.d02775de.js.map",
     "static/css/2.1a02f21c.chunk.css": "/piotr-portfolio-react/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.9e39a292.chunk.js": "/piotr-portfolio-react/static/js/2.9e39a292.chunk.js",
-    "static/js/2.9e39a292.chunk.js.map": "/piotr-portfolio-react/static/js/2.9e39a292.chunk.js.map",
-    "static/js/3.db4ea72c.chunk.js": "/piotr-portfolio-react/static/js/3.db4ea72c.chunk.js",
-    "static/js/3.db4ea72c.chunk.js.map": "/piotr-portfolio-react/static/js/3.db4ea72c.chunk.js.map",
+    "static/js/2.d872cf9b.chunk.js": "/piotr-portfolio-react/static/js/2.d872cf9b.chunk.js",
+    "static/js/2.d872cf9b.chunk.js.map": "/piotr-portfolio-react/static/js/2.d872cf9b.chunk.js.map",
+    "static/js/3.9ec92b62.chunk.js": "/piotr-portfolio-react/static/js/3.9ec92b62.chunk.js",
+    "static/js/3.9ec92b62.chunk.js.map": "/piotr-portfolio-react/static/js/3.9ec92b62.chunk.js.map",
     "index.html": "/piotr-portfolio-react/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/piotr-portfolio-react/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.6c1c58bb.chunk.css.map": "/piotr-portfolio-react/static/css/main.6c1c58bb.chunk.css.map",
-    "static/js/2.9e39a292.chunk.js.LICENSE.txt": "/piotr-portfolio-react/static/js/2.9e39a292.chunk.js.LICENSE.txt",
+    "static/css/main.4d648f51.chunk.css.map": "/piotr-portfolio-react/static/css/main.4d648f51.chunk.css.map",
+    "static/js/2.d872cf9b.chunk.js.LICENSE.txt": "/piotr-portfolio-react/static/js/2.d872cf9b.chunk.js.LICENSE.txt",
     "static/media/Working.b1477c2d.jpeg": "/piotr-portfolio-react/static/media/Working.b1477c2d.jpeg",
     "static/media/lin.debd4f99.png": "/piotr-portfolio-react/static/media/lin.debd4f99.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5f9e272.js",
+    "static/js/runtime-main.d02775de.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.9e39a292.chunk.js",
-    "static/css/main.6c1c58bb.chunk.css",
-    "static/js/main.db9f8e17.chunk.js"
+    "static/js/2.d872cf9b.chunk.js",
+    "static/css/main.4d648f51.chunk.css",
+    "static/js/main.17c4dea7.chunk.js"
   ]
 }
