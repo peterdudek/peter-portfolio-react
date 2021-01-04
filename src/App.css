@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  /* background-color: rgb(96, 96, 100); */
   margin-bottom: 45px;
 }
 
@@ -17,6 +18,12 @@
   margin-top: 20px;
   list-style-type: none;
 }
+
+
+
+/* .grayFusion {
+  background-color: rgb(159, 158, 175);
+} */
 
 
 /* .App-logo {

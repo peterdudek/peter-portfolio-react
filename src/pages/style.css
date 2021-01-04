@@ -1,0 +1,15 @@
+.grayFusion {
+  background-color: rgb(219, 219, 223);
+}
+
+.stretched {
+  min-height: 70vh;
+  position: relative
+}
+
+.centerDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

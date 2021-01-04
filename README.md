@@ -1,68 +1,44 @@
-# react-portfolio
 
-* Updated portfolio featuring 6 total projects
+# Piotr Dudek - React Portfolio ⚛️ 🚀 🌟
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-* Use React
+## Description
+This is my portfolio page created in React. You can find out more about me and my passion for programming and technology in general. The portfolio contains links to my social media accounts, contact information and a few of my best projects up to date.
 
-* A `Header` component that appears on multiple pages
+## Table of Contents
+* [Installation](#Installation)
+* [Tech-Stack](#Tech-Stack)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Test](#Test)
+* [Questions](#Questions)
 
-* A single `Project` component that will be used multiple times on a single page 
+## Installation
+You can run this page from the Visual Studio Code terminal by entering __yarn start__ or __npm start__. 
+You can also see this page deployed on GitHub Pages: https://piotr72us.github.io/piotr-portfolio-react/
 
-* Navigation with React Router, dynamic rendering, or another third part router
+## Tech-Stack
+As mentioned, this page was built in React with JSX. "Header", "Footer", and "Project" card are some of the components generated in React. Buttons in the top navigation bar use React Router to direct user to different pages.
+A few Bootstrap components were used in this page in addition to regular CSS styling with mobile-first responsive design in mind.
+Each project's details are passed as props from json database to the "Project" component.
 
-* A `Footer` component that appears on multiple pages
+<p align="center">
+  <img src="./public/screen.png">
+</p>
 
-* Update GitHub profile with pinned repositories featuring those same projects
+## Usage
+Use the navbar on the top of the screen to navigate the page. Click the Resume button on the navbar to view and download my latest resume.
 
-* Deployed this site to GitHub Pages
+## License
+This application is covered under the MIT license.
 
+## Contributing
+If you would like to work with me on a project, please contact me through the info below.
 
-### Updated Portfolio
+## Test
+Testing framework used: N/A
 
-Your updated site should still have all of the content it previously had:
-
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume with updated projects
-
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * GIF or screenshot of the deployed application
-
-
-#### Design
-
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site. You may we
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
+## Questions
+If you have additional questions, you can reach me via my GitHub profile: [Piotr72us](https://github.com/Piotr72us)<br/>
+or send me an email at: piotr72@gmail.com
