@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "name": "Google Books Search by Peter",
+    "image": "https://raw.githubusercontent.com/Piotr72us/google-books-search/main/client/public/img/screenshot-gbs.png",
+    "repo": "https://github.com/Piotr72us/google-books-search",
+    "deployed": "https://google-books-peter.herokuapp.com/"
+  },
+  {
     "id": 1,
     "name": "Employee Connect",
     "image": "https://raw.githubusercontent.com/Piotr72us/employee-connect/main/src/img/screen.png",
