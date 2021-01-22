@@ -2,9 +2,12 @@ import React from "react";
 import "./style.css";
 
 function Project(props) {
+
+  const reversed = props.projects.map(item => item).reverse();
+
   return (
     <>
-      {props.projects.length > 0 ? props.projects.map(project => {
+      {reversed.length > 0 ? reversed.map(project => {
         return (
           <div className="col-lg-5 myProject" key={project.id}>
             <img src={project.image} alt={project.name} className="img-fluid img-thumbnail figure-img rounded" />

@@ -47,5 +47,12 @@
     "image": "https://raw.githubusercontent.com/Piotr72us/Shrewd-Investor/main/assets/shrewd.png",
     "repo": "https://github.com/Piotr72us/Shrewd-Investor",
     "deployed": "https://our-shrewd-investor.herokuapp.com/"
+  },
+  {
+    "id": 7,
+    "name": "Kakeibo 家計簿",
+    "image": "https://raw.githubusercontent.com/Piotr72us/piotr-portfolio/master/assets/images/kakeibo-screen.png",
+    "repo": "https://github.com/Piotr72us/project3",
+    "deployed": "https://kakeibo21.herokuapp.com/"
   }
 ]
