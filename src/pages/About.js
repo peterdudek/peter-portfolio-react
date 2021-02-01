@@ -1,13 +1,36 @@
 import React from "react";
 import Picture from "../img/Working.jpeg";
 import './style.css';
+// import Typed from "typed.js";
+// import Instruction from "../components/Typed";
+import TypedReactDemo from "../components/Typed";
+
 
 function About() {
+
+
+
   return (
+    <>
+
     <div className="customMargin">
 
       <div className="container col-xs-9 my-3 p-3 border border-dark rounded projects grayFusion">
         <h1 className="display-4 text-center text-sm-left">Meet Piotr Dudek</h1>
+
+            <TypedReactDemo
+    strings={[
+      'Web Developer',
+      
+      // '<strong>
+      'Web Designer',
+      // </strong>',
+      'Tech Enthusiast'
+    ]}
+  />
+
+        <p className="intro-subtitle"><span className="text-slider-items"></span><strong className="text-slider"></strong></p>
+
         <div className="container col-sm-3">
           <img src={Picture} alt="profile_image" className="img-fluid img-thumbnail figure-img rounded" />
           <figcaption className="centerTxt">Piotr Dudek</figcaption>
@@ -36,6 +59,7 @@ function About() {
       </p>
       </div>
     </div>
+    </>
   )
 }
 

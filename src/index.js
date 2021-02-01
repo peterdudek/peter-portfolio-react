@@ -4,10 +4,20 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
+// import TypedReactDemo from "./components/Typed";
 
 ReactDOM.render(
   <React.StrictMode>
+    <>
+    {/* <TypedReactDemo
+    strings={[
+    	'Some <i>strings</i> are slanted',
+      'Some <strong>strings</strong> are bold',
+      'HTML characters &times; &copy;'
+    ]}
+  />, */}
     <App />
+  </>
   </React.StrictMode>,
   document.getElementById('root')
 );
