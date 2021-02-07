@@ -32,7 +32,9 @@ function About() {
           <p className="intro-subtitle"><span className="text-slider-items"></span><strong className="text-slider"></strong></p>
 
           <div className="container col-sm-3">
-            <img src={Picture} alt="profile_image" className="img-fluid img-thumbnail figure-img rounded" />
+            <img src={Picture} alt="Piotr Dudek" className=
+            "img-fluid img-thumbnail figure-img rounded" 
+            />
             <figcaption className="centerTxt">Piotr Dudek</figcaption>
           </div>
           <hr className="my-3" />
