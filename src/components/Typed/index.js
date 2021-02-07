@@ -37,8 +37,12 @@ class TypedReactDemo extends React.Component {
     // You can pass other options here, such as typing speed, back speed, etc.
     const options = {
     	strings: strings,
-      typeSpeed: 50,
-      backSpeed: 50
+      typeSpeed: 70,
+      backSpeed: 70,
+      smartBackspace: true,
+      // shuffle: true,
+      loop: true,
+      loopCount: Infinity,
     };
     // this.el refers to the <span> in the render() method
     this.typed = new Typed(this.el, options);
