@@ -21,3 +21,21 @@
 .textLeft {
   text-align: center;
 }
+
+.midnightGreen {
+  /* background-color: #144552; */
+  background-color: #d9d9d9;
+}
+
+.customMarg {
+  margin-bottom: 50px;
+  background-color: #d9d9d9;
+}
+
+.largeFont {
+  font-size: 20px;
+}
+
+.roundedEdge {
+  border-radius: 15px 15px 15px 15px;
+}

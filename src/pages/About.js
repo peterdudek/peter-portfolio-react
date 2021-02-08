@@ -15,17 +15,15 @@ function About() {
   return (
     <>
 
-      <div className="customMargin">
+      <div className="customMargin midnightGreen">
 
-        <div className="container col-xs-9 my-3 p-3 border border-dark rounded projects grayFusion">
-          <h1 className="display-4 text-center">Meet Piotr Dudek</h1>
+        <div className="container col-xs-9">
+          <h2 className="display-4 text-center mMid">Meet Piotr Dudek</h2>
 
           <p className="intro-subtitle"><span className="text-slider-items"></span><strong className="text-slider"></strong></p>
 
           <div className="container col-sm-3">
-            <img src={Picture} alt="Piotr Dudek" className=
-              "img-fluid img-thumbnail figure-img rounded"
-            />
+            <img src={Picture} alt="Piotr Dudek" className="img-fluid roundedEdge" />
             {/* <figcaption className="centerTxt">Piotr Dudek</figcaption> */}
             <TypedReactDemo
               strings={[
@@ -41,7 +39,7 @@ function About() {
           </div>
           <hr className="my-3" />
 
-          <h4>Pursuing the Coding Dream</h4>
+          <h4 className="mMid">Pursuing the Coding Dream</h4>
           <p className="text-left">
             Full-Stack Web Developer leveraging project management background to build web applications and create the ultimate user experience.
             Recently graduated from the Full-Stack Coding Bootcamp at Columbia University.
@@ -55,7 +53,7 @@ function About() {
             Awarded “Strength” at the ISO 9001 Audit for developing a cutting-edge Internal Audit Program.
       </p> */}
           <br />
-          <h4>Technical Skills</h4>
+          <h4 className="mMid">Technical Skills</h4>
           <div className="text-left">
             <p><strong>Languages: </strong>JavaScript ES6+, CSS3, HTML5, SQL, NoSQL</p>
             <p><strong>Applications: </strong>GitHub, MySQL, MongoDB, Asana, Heroku, Robo3T, Postman</p>
@@ -71,9 +69,9 @@ function About() {
 
           {/* <div>
             <div className="container col-xl-6 my-3 p-3 border border-dark rounded grayFusion stretched"> */}
-          <div>
+          <div className="customMarg">
             <div>
-              <h4><span>Let's connect:</span></h4>
+              <h4 className="mMid"><span>Let's connect:</span></h4>
               <div className="container col-sm-4"></div>
               <div className="container col-sm-4">
                 <div className="text-center">

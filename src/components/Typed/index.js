@@ -31,12 +31,12 @@ import Typed from "typed.js";
 
 class TypedReactDemo extends React.Component {
   componentDidMount() {
-  	// If you want to pass more options as props, simply add
+    // If you want to pass more options as props, simply add
     // your desired props to this destructuring assignment.
     const { strings } = this.props;
     // You can pass other options here, such as typing speed, back speed, etc.
     const options = {
-    	strings: strings,
+      strings: strings,
       typeSpeed: 70,
       backSpeed: 70,
       smartBackspace: true,
@@ -49,7 +49,7 @@ class TypedReactDemo extends React.Component {
   }
 
   componentWillUnmount() {
-  	// Make sure to destroy Typed instance on unmounting
+    // Make sure to destroy Typed instance on unmounting
     // to prevent memory leaks
     this.typed.destroy();
   }
@@ -58,7 +58,7 @@ class TypedReactDemo extends React.Component {
     return (
       <div className="wrap">
         {/* <h1>About me</h1> */}
-        <div className="type-wrap">
+        <div className="type-wrap largeFont">
           <span
             style={{ whiteSpace: 'pre' }}
             ref={(el) => { this.el = el; }}

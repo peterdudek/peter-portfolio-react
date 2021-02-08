@@ -12,13 +12,15 @@ class Projects extends Component {
   render() {
     return (
       <div className="customMargin">
-        <div className="container col-xs-9 my-3 p-3 border border-dark rounded projects grayFusion">
-        <h1 className="display-4 text-center">My Projects</h1>
+        <div className="container col-xs-9">
+        <h2 className="display-4 text-center mMid">My Projects</h2>
+        <row>
           <div>
             {this.state.projects.length > 0 &&
               <Project projects={this.state.projects} />
             }
           </div>
+          </row>
         </div>
       </div>
     );

@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Google Books Search by Peter",
+    "name": "Google Books Search",
     "image": "https://raw.githubusercontent.com/Piotr72us/google-books-search/main/client/public/img/screenshot-gbs.png",
     "repo": "https://github.com/Piotr72us/google-books-search",
     "deployed": "https://google-books-peter.herokuapp.com/"

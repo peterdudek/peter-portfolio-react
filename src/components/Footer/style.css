@@ -1,7 +1,9 @@
 .footer {
   height: 30px;
-  color: white;
-  position: fixed;
+  color: #d9d9d9;
+  /* background-color: #272640; */
+  background-color: #353535;
+  /* position: fixed; */
   bottom: 0;
   left: 0;
   right: 0;

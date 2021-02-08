@@ -9,13 +9,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 ReactDOM.render(
   <React.StrictMode>
     <>
-    {/* <TypedReactDemo
-    strings={[
-    	'Some <i>strings</i> are slanted',
-      'Some <strong>strings</strong> are bold',
-      'HTML characters &times; &copy;'
-    ]}
-  />, */}
     <App />
   </>
   </React.StrictMode>,
