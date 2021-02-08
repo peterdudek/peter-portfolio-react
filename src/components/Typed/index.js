@@ -56,7 +56,7 @@ class TypedReactDemo extends React.Component {
 
   render() {
     return (
-      <div className="wrap">
+      <div className="wrap margy">
         {/* <h1>About me</h1> */}
         <div className="type-wrap largeFont">
           <span
