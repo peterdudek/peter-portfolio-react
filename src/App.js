@@ -5,6 +5,7 @@ import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Header from "./components/Header/header.js";
 import Footer from "./components/Footer/footer.js";
+// import Detail from "./pages/Detail";
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route exact path="/about" component={About} />
         {/* <Route exact path="/contact" component={Contact} /> */}
         <Route exact path="/projects" component={Projects} />
+        {/* <Route exact path="/detail" component={Detail} /> */}
         <Footer />
       </div>
     </Router>

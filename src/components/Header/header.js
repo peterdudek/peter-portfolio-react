@@ -23,14 +23,15 @@ function Header() {
           <div className="navbar-collapse collapse justify-content-end" id="navbarDefault">
             <ul className="navbar-nav">
 
-              <li className="nav-item">
+              <li className="nav-item mLeft">
 
                 <Link
                   to="/"
                   className={
-                    window.location.pathname === "/" || window.location.pathname === "/about"
-                      ? "nav-link active js-scroll mBlue"
-                      : "nav-link js-scroll mWhite"
+                    // window.location.pathname === "/" || window.location.pathname === "/about"
+                    "mBlue"
+                      // ? "nav-link active js-scroll mBlue"
+                      // : "nav-link js-scroll mWhite"
                   }
                 >
                   About
@@ -38,17 +39,23 @@ function Header() {
 
               </li>
 
-              <li className="nav-item">
+              <li className="nav-item mLeft">
 
-                <a className="nav-link js-scroll mBlue" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/18QaT_OMufCjvYppv-aEjR8Yzd37k64d9/view?usp=sharing">Resume</a>
+                <a 
+                // className="nav-link js-scroll mBlue" 
+                target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/18QaT_OMufCjvYppv-aEjR8Yzd37k64d9/view?usp=sharing" className="mBlue">Resume</a>
 
               </li>
 
-              <li className="nav-item">
+              <li className="nav-item mLeft">
 
                 <Link
                   to="/projects"
-                  className={window.location.pathname === "/projects" ? "nav-link active js-scroll mWhite" : "nav-link js-scroll mBlue"}
+                  className={
+                    // window.location.pathname === "/projects" 
+                    "mBlue"
+                  // ? "nav-link active js-scroll mWhite" : "nav-link js-scroll mBlue"
+                }
                 >
                   Projects
             </Link>

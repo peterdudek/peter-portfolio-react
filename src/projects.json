@@ -4,41 +4,53 @@
     "name": "Google Books Search",
     "image": "https://raw.githubusercontent.com/Piotr72us/google-books-search/main/client/public/img/screenshot-gbs.png",
     "repo": "https://github.com/Piotr72us/google-books-search",
-    "deployed": "https://google-books-peter.herokuapp.com/"
+    "deployed": "https://google-books-peter.herokuapp.com/",
+    "desc": "For all book worms around - this is an app for you. Built in React.js, using node.js, Express server, MongoDB, and backend axios calls to access Google Books API, this compact app allows you to search for hundreds of thousands of book titles from all over the world. You can also save them to your own private collection of books.",
+    "tech": "MongoDB, Express, React.js, Node.js, Bootstrap, Mongoose, API, CSS, HTML"
   },
   {
     "id": 1,
     "name": "Employee Connect",
     "image": "https://raw.githubusercontent.com/Piotr72us/employee-connect/main/src/img/screen.png",
     "repo": "https://github.com/Piotr72us/employee-connect",
-    "deployed": "https://piotr72us.github.io/employee-connect/"
+    "deployed": "https://piotr72us.github.io/employee-connect/",
+    "desc": "Employee-Connect is an app that allows the user to comfortably browse the employee information such as a picture, name, phone number, and email address. The user can search employees by their first and last names as well as display their information in an ascending or descending order by their last name.",
+    "tech": "React.js, Express, JSX, Node.js, Axios, REST API, Bootstrap, CSS, HTML "
   },
   {
     "id": 2,
     "name": "Weather Station",
     "image": "https://raw.githubusercontent.com/Piotr72us/weather-station/master/assets/images/Screenshot.png",
     "repo": "https://github.com/Piotr72us/weather-station",
-    "deployed": "https://piotr72us.github.io/weather-station/index.html"
+    "deployed": "https://piotr72us.github.io/weather-station/index.html",
+    "desc": "This application will help you keep track of the current weather in any place you go to. There is also a list of the recently searched cities on the left side of your screen for your convenience. If you click on the recently searched city name, the weather forecast for that city will be displayed.",
+    "tech": "JavaScript, jQuery, CSS, moments.js, REST API, Bootstrap, CSS, HTML"
   },
   {
     "id": 3,
     "name": "Destination Dashboard",
     "image": "https://raw.githubusercontent.com/Piotr72us/Destination-Dashboard/master/assets/destinationDemo.gif",
     "repo": "https://github.com/Piotr72us/Destination-Dashboard",
-    "deployed": "https://piotr72us.github.io/Destination-Dashboard/dashboard.html"
+    "deployed": "https://piotr72us.github.io/Destination-Dashboard/dashboard.html",
+    "desc": "A travel lifestyle application that allows the user to input destination upon arrival and be presented with all the basic information/travel tips, popular attractions and restaurants in the area so that they can enjoy my stay as soon as they land. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.",
+    "tech": "JavaScript, jQuery, Bootstrap, TomTom API, Zomato API, CSS, HTML"
   },
   {
     "id": 4,
     "name": "Shrewd Investor",
     "image": "https://raw.githubusercontent.com/Piotr72us/Shrewd-Investor/main/assets/shrewd.png",
     "repo": "https://github.com/Piotr72us/Shrewd-Investor",
-    "deployed": "https://our-shrewd-investor.herokuapp.com/"
+    "deployed": "https://our-shrewd-investor.herokuapp.com/",
+    "desc": "Shrewd investor is a web app that offers free stock trading for new investors. Application allows users to save stocks in their portfolios as well as to see the current price and change in price. Users can acess more details about each stock.",
+    "tech": "SQL, Express, Node.js, Bootstrap, Charts.js, Sequelize, Passport.js, bcrypt, API, CSS, HTML"
   },
   {
     "id": 5,
     "name": "Kakeibo",
     "image": "https://raw.githubusercontent.com/Piotr72us/piotr-portfolio/master/assets/images/kakeibo-screen.png",
     "repo": "https://github.com/Piotr72us/project3",
-    "deployed": "https://kakeibo21.herokuapp.com/"
+    "deployed": "https://kakeibo21.herokuapp.com/",
+    "desc": "With all the many different subscription services available nowadays it is very hard to track how much one person is spending per month. This app will conveniently show how much a person is spending on each individual service and how much they are spending in total on all services.",
+    "tech": "MongoDB, Express, React.js, Node.js, Bootstrap, Charts.js, Passport.js, bcrypt, Mongoose, API, CSS, HTML"
   }
 ]
