@@ -13,7 +13,7 @@ class Projects extends Component {
     return (
       <div className="customMargin">
         <div className="container col-xs-9">
-        <h2 className="display-4 text-center mMid">My Projects</h2>
+        <h2 className="display-4 text-center mMidAboutHead">My Projects</h2>
           <div className="row">
             {this.state.projects.length > 0 &&
               <Project projects={this.state.projects} />

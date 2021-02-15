@@ -3,7 +3,7 @@
   /* background-color: rgb(96, 96, 100); */
   /* margin-bottom: 45px; */
   font-family: 'Lato', sans-serif;
-  background-color: #d9d9d9;
+  /* background-color: #d9d9d9; */
   /* background-color: #3c6e71; */
   /* background-image: linear-gradient(#d9d9d9, #284b63); */
 }
@@ -65,4 +65,15 @@
 
 .mMid {
   color: #284b63;
+  margin-top: 50px;
+}
+
+.mMidAbout {
+  color: #284b63;
+  margin-top: 100px;
+}
+
+.mMidAboutHead {
+  color: #d9d9d9;
+  margin-top: 100px;
 }
