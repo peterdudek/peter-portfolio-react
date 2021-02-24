@@ -1,5 +1,5 @@
 import React from "react";
-import Picture from "../img/ccc.jpg";
+import Picture from "../img/ddd.jpg";
 import './style.css';
 
 import LinkedIn from "../img/icons/lin.png";
@@ -18,7 +18,7 @@ function About() {
       <div className="customMargin midnightGreen">
 
         <div className="container col-xs-9">
-          <h2 className="display-4 text-left mMidAboutHead">I'm Piotr Dudek</h2>
+          <h2 className="display-4 text-left mMidAboutHead">Piotr Dudek</h2>
 
           <p className="intro-subtitle"><span className="text-slider-items"></span><strong className="text-slider"></strong></p>
 
