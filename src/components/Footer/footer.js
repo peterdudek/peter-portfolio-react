@@ -5,7 +5,7 @@ function Footer() {
   return (
     // <footer className="footer bg-dark fixed-bottom">
       <footer className="footer">
-      <span>Copyright - Piotr Dudek © 2021. Created my free logo at LogoMakr.com</span>
+      <span>Copyright - Peter Dudek © 2021</span>
     </footer>
   );
 }

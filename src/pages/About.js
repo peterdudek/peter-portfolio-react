@@ -18,12 +18,12 @@ function About() {
       <div className="customMargin midnightGreen">
 
         <div className="container col-xs-9">
-          <h2 className="display-4 text-left mMidAboutHead">Piotr Dudek</h2>
+          <h2 className="display-4 text-left mMidAboutHead">Peter Dudek</h2>
 
           <p className="intro-subtitle"><span className="text-slider-items"></span><strong className="text-slider"></strong></p>
 
           <div className="container col-sm-3">
-            <img src={Picture} alt="Piotr Dudek" className="img-fluid roundAbout" />
+            <img src={Picture} alt="Peter Dudek" className="img-fluid roundAbout" />
             {/* <figcaption className="centerTxt">Piotr Dudek</figcaption> */}
             <TypedReactDemo
               strings={[
@@ -75,8 +75,8 @@ function About() {
               <div className="container col-sm-4"></div>
               <div className="container col-sm-4">
                 <div className="text-center">
-                  <p><a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/-piotr-dudek"><img src={LinkedIn} alt="linkedin-logo" height="20" width="20" /> LinkedIn</a></p>
-                  <p><a rel="noreferrer" target="_blank" href="https://github.com/Piotr72us"><img src={GitHub} alt="github-logo" height="20" width="20" /> Github</a></p>
+                  <p><a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/ptr-dudek"><img src={LinkedIn} alt="linkedin-logo" height="20" width="20" /> LinkedIn</a></p>
+                  <p><a rel="noreferrer" target="_blank" href="https://github.com/peterdudek"><img src={GitHub} alt="github-logo" height="20" width="20" /> Github</a></p>
                   <p className="spread"><a rel="noreferrer" target="_blank" href="mailto: piotr72@gmail.com"><img src={Email} alt="email-logo" height="20" width="20" /> piotr72@gmail.com</a></p>
                   <p className="spread"><a rel="noreferrer" target="_blank" href="tel: 9176988041"><img src={Phone} alt="phono-icon" height="20" width="20" />  (917)-698-8041</a></p>
                 </div>

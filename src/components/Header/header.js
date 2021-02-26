@@ -43,7 +43,7 @@ function Header() {
 
                 <a 
                 // className="nav-link js-scroll mBlue" 
-                target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/18QaT_OMufCjvYppv-aEjR8Yzd37k64d9/view?usp=sharing" className="mBlue">Resume</a>
+                target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1wvS8FygCZmsO6CCOLOFVrhdC3pfdLPmV/view?usp=sharing" className="mBlue">Resume</a>
 
               </li>
 
