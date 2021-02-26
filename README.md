@@ -16,7 +16,7 @@ This is my portfolio page created in React. You can find out more about me and m
 
 ## Installation
 You can run this page from the Visual Studio Code terminal by entering __yarn start__ or __npm start__. 
-You can also see this page deployed on GitHub Pages: https://piotr72us.github.io/piotr-portfolio-react/
+You can also see this page deployed on GitHub Pages: https://peterdudek.github.io/piotr-portfolio-react/
 
 ## Tech-Stack
 As mentioned, this page was built in React with JSX. "Header", "Footer", and "Project" card are some of the components generated in React. Buttons in the top navigation bar use React Router to direct user to different pages.
@@ -40,5 +40,5 @@ If you would like to work with me on a project, please contact me through the in
 Testing framework used: N/A
 
 ## Questions
-If you have additional questions, you can reach me via my GitHub profile: [Piotr72us](https://github.com/Piotr72us)<br/>
+If you have additional questions, you can reach me via my GitHub profile: [peterdudek](https://github.com/peterdudek)<br/>
 or send me an email at: piotr72@gmail.com
